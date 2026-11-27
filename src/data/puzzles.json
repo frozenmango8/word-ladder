@@ -1,0 +1,5602 @@
+[
+  {
+    "start": "bake",
+    "target": "fall",
+    "par": 4
+  },
+  {
+    "start": "bark",
+    "target": "fine",
+    "par": 4
+  },
+  {
+    "start": "bass",
+    "target": "same",
+    "par": 4
+  },
+  {
+    "start": "bath",
+    "target": "cake",
+    "par": 4
+  },
+  {
+    "start": "bell",
+    "target": "seed",
+    "par": 4
+  },
+  {
+    "start": "bids",
+    "target": "code",
+    "par": 4
+  },
+  {
+    "start": "bond",
+    "target": "care",
+    "par": 4
+  },
+  {
+    "start": "boom",
+    "target": "sold",
+    "par": 4
+  },
+  {
+    "start": "boot",
+    "target": "dear",
+    "par": 4
+  },
+  {
+    "start": "bore",
+    "target": "hold",
+    "par": 4
+  },
+  {
+    "start": "boss",
+    "target": "fare",
+    "par": 4
+  },
+  {
+    "start": "boys",
+    "target": "cars",
+    "par": 4
+  },
+  {
+    "start": "buck",
+    "target": "bend",
+    "par": 4
+  },
+  {
+    "start": "bump",
+    "target": "pill",
+    "par": 4
+  },
+  {
+    "start": "bust",
+    "target": "near",
+    "par": 4
+  },
+  {
+    "start": "came",
+    "target": "dine",
+    "par": 4
+  },
+  {
+    "start": "case",
+    "target": "line",
+    "par": 4
+  },
+  {
+    "start": "cell",
+    "target": "fine",
+    "par": 4
+  },
+  {
+    "start": "chat",
+    "target": "seat",
+    "par": 4
+  },
+  {
+    "start": "chop",
+    "target": "coal",
+    "par": 4
+  },
+  {
+    "start": "cook",
+    "target": "rack",
+    "par": 4
+  },
+  {
+    "start": "cool",
+    "target": "bell",
+    "par": 4
+  },
+  {
+    "start": "corn",
+    "target": "make",
+    "par": 4
+  },
+  {
+    "start": "cost",
+    "target": "fame",
+    "par": 4
+  },
+  {
+    "start": "crew",
+    "target": "drug",
+    "par": 4
+  },
+  {
+    "start": "crop",
+    "target": "gray",
+    "par": 4
+  },
+  {
+    "start": "cure",
+    "target": "dine",
+    "par": 4
+  },
+  {
+    "start": "cute",
+    "target": "wine",
+    "par": 4
+  },
+  {
+    "start": "damn",
+    "target": "main",
+    "par": 4
+  },
+  {
+    "start": "dark",
+    "target": "sake",
+    "par": 4
+  },
+  {
+    "start": "dawn",
+    "target": "corn",
+    "par": 4
+  },
+  {
+    "start": "dear",
+    "target": "bell",
+    "par": 4
+  },
+  {
+    "start": "died",
+    "target": "fear",
+    "par": 4
+  },
+  {
+    "start": "digs",
+    "target": "bans",
+    "par": 4
+  },
+  {
+    "start": "dine",
+    "target": "mate",
+    "par": 4
+  },
+  {
+    "start": "dish",
+    "target": "bake",
+    "par": 4
+  },
+  {
+    "start": "disk",
+    "target": "case",
+    "par": 4
+  },
+  {
+    "start": "dumb",
+    "target": "dawn",
+    "par": 4
+  },
+  {
+    "start": "dust",
+    "target": "lend",
+    "par": 4
+  },
+  {
+    "start": "east",
+    "target": "lake",
+    "par": 4
+  },
+  {
+    "start": "easy",
+    "target": "take",
+    "par": 4
+  },
+  {
+    "start": "eats",
+    "target": "male",
+    "par": 4
+  },
+  {
+    "start": "face",
+    "target": "bans",
+    "par": 4
+  },
+  {
+    "start": "fall",
+    "target": "sake",
+    "par": 4
+  },
+  {
+    "start": "flaw",
+    "target": "dear",
+    "par": 4
+  },
+  {
+    "start": "folk",
+    "target": "fine",
+    "par": 4
+  },
+  {
+    "start": "font",
+    "target": "mole",
+    "par": 4
+  },
+  {
+    "start": "foul",
+    "target": "told",
+    "par": 4
+  },
+  {
+    "start": "fuel",
+    "target": "beat",
+    "par": 4
+  },
+  {
+    "start": "gain",
+    "target": "sand",
+    "par": 4
+  },
+  {
+    "start": "gate",
+    "target": "lend",
+    "par": 4
+  },
+  {
+    "start": "gear",
+    "target": "lest",
+    "par": 4
+  },
+  {
+    "start": "goat",
+    "target": "fear",
+    "par": 4
+  },
+  {
+    "start": "golf",
+    "target": "more",
+    "par": 4
+  },
+  {
+    "start": "grew",
+    "target": "flaw",
+    "par": 4
+  },
+  {
+    "start": "hang",
+    "target": "tack",
+    "par": 4
+  },
+  {
+    "start": "hash",
+    "target": "fake",
+    "par": 4
+  },
+  {
+    "start": "hell",
+    "target": "lest",
+    "par": 4
+  },
+  {
+    "start": "here",
+    "target": "role",
+    "par": 4
+  },
+  {
+    "start": "hope",
+    "target": "wine",
+    "par": 4
+  },
+  {
+    "start": "horn",
+    "target": "bake",
+    "par": 4
+  },
+  {
+    "start": "hour",
+    "target": "food",
+    "par": 4
+  },
+  {
+    "start": "joke",
+    "target": "mile",
+    "par": 4
+  },
+  {
+    "start": "keen",
+    "target": "bent",
+    "par": 4
+  },
+  {
+    "start": "kids",
+    "target": "sink",
+    "par": 4
+  },
+  {
+    "start": "last",
+    "target": "make",
+    "par": 4
+  },
+  {
+    "start": "laws",
+    "target": "land",
+    "par": 4
+  },
+  {
+    "start": "life",
+    "target": "lend",
+    "par": 4
+  },
+  {
+    "start": "list",
+    "target": "pole",
+    "par": 4
+  },
+  {
+    "start": "load",
+    "target": "bent",
+    "par": 4
+  },
+  {
+    "start": "logs",
+    "target": "none",
+    "par": 4
+  },
+  {
+    "start": "luck",
+    "target": "tale",
+    "par": 4
+  },
+  {
+    "start": "mate",
+    "target": "wire",
+    "par": 4
+  },
+  {
+    "start": "meat",
+    "target": "tell",
+    "par": 4
+  },
+  {
+    "start": "mole",
+    "target": "lost",
+    "par": 4
+  },
+  {
+    "start": "much",
+    "target": "look",
+    "par": 4
+  },
+  {
+    "start": "muck",
+    "target": "dull",
+    "par": 4
+  },
+  {
+    "start": "name",
+    "target": "till",
+    "par": 4
+  },
+  {
+    "start": "near",
+    "target": "hell",
+    "par": 4
+  },
+  {
+    "start": "neck",
+    "target": "race",
+    "par": 4
+  },
+  {
+    "start": "need",
+    "target": "sane",
+    "par": 4
+  },
+  {
+    "start": "pace",
+    "target": "cast",
+    "par": 4
+  },
+  {
+    "start": "pile",
+    "target": "came",
+    "par": 4
+  },
+  {
+    "start": "pink",
+    "target": "mile",
+    "par": 4
+  },
+  {
+    "start": "pulp",
+    "target": "sole",
+    "par": 4
+  },
+  {
+    "start": "pure",
+    "target": "rave",
+    "par": 4
+  },
+  {
+    "start": "puts",
+    "target": "rang",
+    "par": 4
+  },
+  {
+    "start": "quit",
+    "target": "skin",
+    "par": 4
+  },
+  {
+    "start": "rack",
+    "target": "mine",
+    "par": 4
+  },
+  {
+    "start": "real",
+    "target": "best",
+    "par": 4
+  },
+  {
+    "start": "rend",
+    "target": "mold",
+    "par": 4
+  },
+  {
+    "start": "rice",
+    "target": "sane",
+    "par": 4
+  },
+  {
+    "start": "road",
+    "target": "tell",
+    "par": 4
+  },
+  {
+    "start": "rode",
+    "target": "dine",
+    "par": 4
+  },
+  {
+    "start": "role",
+    "target": "fell",
+    "par": 4
+  },
+  {
+    "start": "rout",
+    "target": "neat",
+    "par": 4
+  },
+  {
+    "start": "rude",
+    "target": "dire",
+    "par": 4
+  },
+  {
+    "start": "sake",
+    "target": "bend",
+    "par": 4
+  },
+  {
+    "start": "sane",
+    "target": "fold",
+    "par": 4
+  },
+  {
+    "start": "seem",
+    "target": "sang",
+    "par": 4
+  },
+  {
+    "start": "seen",
+    "target": "fell",
+    "par": 4
+  },
+  {
+    "start": "send",
+    "target": "bear",
+    "par": 4
+  },
+  {
+    "start": "sent",
+    "target": "sine",
+    "par": 4
+  },
+  {
+    "start": "shot",
+    "target": "play",
+    "par": 4
+  },
+  {
+    "start": "sick",
+    "target": "wire",
+    "par": 4
+  },
+  {
+    "start": "size",
+    "target": "fake",
+    "par": 4
+  },
+  {
+    "start": "soil",
+    "target": "hill",
+    "par": 4
+  },
+  {
+    "start": "some",
+    "target": "sack",
+    "par": 4
+  },
+  {
+    "start": "soup",
+    "target": "foot",
+    "par": 4
+  },
+  {
+    "start": "spit",
+    "target": "flow",
+    "par": 4
+  },
+  {
+    "start": "spot",
+    "target": "crop",
+    "par": 4
+  },
+  {
+    "start": "swam",
+    "target": "ship",
+    "par": 4
+  },
+  {
+    "start": "swim",
+    "target": "chip",
+    "par": 4
+  },
+  {
+    "start": "swum",
+    "target": "flip",
+    "par": 4
+  },
+  {
+    "start": "talk",
+    "target": "mold",
+    "par": 4
+  },
+  {
+    "start": "tame",
+    "target": "line",
+    "par": 4
+  },
+  {
+    "start": "tank",
+    "target": "came",
+    "par": 4
+  },
+  {
+    "start": "tear",
+    "target": "rent",
+    "par": 4
+  },
+  {
+    "start": "tend",
+    "target": "tear",
+    "par": 4
+  },
+  {
+    "start": "text",
+    "target": "wear",
+    "par": 4
+  },
+  {
+    "start": "thin",
+    "target": "chap",
+    "par": 4
+  },
+  {
+    "start": "tied",
+    "target": "puns",
+    "par": 4
+  },
+  {
+    "start": "tile",
+    "target": "bare",
+    "par": 4
+  },
+  {
+    "start": "tins",
+    "target": "save",
+    "par": 4
+  },
+  {
+    "start": "told",
+    "target": "beat",
+    "par": 4
+  },
+  {
+    "start": "toll",
+    "target": "fake",
+    "par": 4
+  },
+  {
+    "start": "turn",
+    "target": "bare",
+    "par": 4
+  },
+  {
+    "start": "vice",
+    "target": "bill",
+    "par": 4
+  },
+  {
+    "start": "wage",
+    "target": "sang",
+    "par": 4
+  },
+  {
+    "start": "wall",
+    "target": "bent",
+    "par": 4
+  },
+  {
+    "start": "ways",
+    "target": "case",
+    "par": 4
+  },
+  {
+    "start": "weak",
+    "target": "lent",
+    "par": 4
+  },
+  {
+    "start": "week",
+    "target": "dead",
+    "par": 4
+  },
+  {
+    "start": "went",
+    "target": "bill",
+    "par": 4
+  },
+  {
+    "start": "will",
+    "target": "tame",
+    "par": 4
+  },
+  {
+    "start": "wipe",
+    "target": "role",
+    "par": 4
+  },
+  {
+    "start": "woke",
+    "target": "line",
+    "par": 4
+  },
+  {
+    "start": "worm",
+    "target": "cake",
+    "par": 4
+  },
+  {
+    "start": "wrap",
+    "target": "shop",
+    "par": 4
+  },
+  {
+    "start": "year",
+    "target": "bell",
+    "par": 4
+  },
+  {
+    "start": "bake",
+    "target": "lead",
+    "par": 5
+  },
+  {
+    "start": "bark",
+    "target": "hall",
+    "par": 5
+  },
+  {
+    "start": "bass",
+    "target": "sole",
+    "par": 5
+  },
+  {
+    "start": "bath",
+    "target": "sale",
+    "par": 5
+  },
+  {
+    "start": "bell",
+    "target": "wake",
+    "par": 5
+  },
+  {
+    "start": "bids",
+    "target": "none",
+    "par": 5
+  },
+  {
+    "start": "bond",
+    "target": "wake",
+    "par": 5
+  },
+  {
+    "start": "boom",
+    "target": "tall",
+    "par": 5
+  },
+  {
+    "start": "boot",
+    "target": "tack",
+    "par": 5
+  },
+  {
+    "start": "bore",
+    "target": "fill",
+    "par": 5
+  },
+  {
+    "start": "boss",
+    "target": "sack",
+    "par": 5
+  },
+  {
+    "start": "boys",
+    "target": "care",
+    "par": 5
+  },
+  {
+    "start": "buck",
+    "target": "make",
+    "par": 5
+  },
+  {
+    "start": "bump",
+    "target": "hill",
+    "par": 5
+  },
+  {
+    "start": "bust",
+    "target": "cake",
+    "par": 5
+  },
+  {
+    "start": "came",
+    "target": "pill",
+    "par": 5
+  },
+  {
+    "start": "case",
+    "target": "mold",
+    "par": 5
+  },
+  {
+    "start": "cell",
+    "target": "mole",
+    "par": 5
+  },
+  {
+    "start": "chat",
+    "target": "cave",
+    "par": 5
+  },
+  {
+    "start": "chop",
+    "target": "most",
+    "par": 5
+  },
+  {
+    "start": "cook",
+    "target": "fell",
+    "par": 5
+  },
+  {
+    "start": "cool",
+    "target": "rack",
+    "par": 5
+  },
+  {
+    "start": "corn",
+    "target": "rack",
+    "par": 5
+  },
+  {
+    "start": "cost",
+    "target": "hear",
+    "par": 5
+  },
+  {
+    "start": "crew",
+    "target": "blew",
+    "par": 5
+  },
+  {
+    "start": "crop",
+    "target": "cost",
+    "par": 5
+  },
+  {
+    "start": "cure",
+    "target": "lost",
+    "par": 5
+  },
+  {
+    "start": "cute",
+    "target": "back",
+    "par": 5
+  },
+  {
+    "start": "damn",
+    "target": "bake",
+    "par": 5
+  },
+  {
+    "start": "dark",
+    "target": "send",
+    "par": 5
+  },
+  {
+    "start": "dawn",
+    "target": "wars",
+    "par": 5
+  },
+  {
+    "start": "dear",
+    "target": "lost",
+    "par": 5
+  },
+  {
+    "start": "died",
+    "target": "fill",
+    "par": 5
+  },
+  {
+    "start": "digs",
+    "target": "dear",
+    "par": 5
+  },
+  {
+    "start": "dine",
+    "target": "bans",
+    "par": 5
+  },
+  {
+    "start": "dish",
+    "target": "lest",
+    "par": 5
+  },
+  {
+    "start": "disk",
+    "target": "wore",
+    "par": 5
+  },
+  {
+    "start": "dumb",
+    "target": "fame",
+    "par": 5
+  },
+  {
+    "start": "dust",
+    "target": "hear",
+    "par": 5
+  },
+  {
+    "start": "east",
+    "target": "lack",
+    "par": 5
+  },
+  {
+    "start": "easy",
+    "target": "back",
+    "par": 5
+  },
+  {
+    "start": "eats",
+    "target": "wore",
+    "par": 5
+  },
+  {
+    "start": "face",
+    "target": "done",
+    "par": 5
+  },
+  {
+    "start": "fall",
+    "target": "done",
+    "par": 5
+  },
+  {
+    "start": "flaw",
+    "target": "seed",
+    "par": 5
+  },
+  {
+    "start": "folk",
+    "target": "same",
+    "par": 5
+  },
+  {
+    "start": "font",
+    "target": "pole",
+    "par": 5
+  },
+  {
+    "start": "foul",
+    "target": "mill",
+    "par": 5
+  },
+  {
+    "start": "fuel",
+    "target": "sine",
+    "par": 5
+  },
+  {
+    "start": "gain",
+    "target": "sang",
+    "par": 5
+  },
+  {
+    "start": "gate",
+    "target": "bash",
+    "par": 5
+  },
+  {
+    "start": "gear",
+    "target": "bill",
+    "par": 5
+  },
+  {
+    "start": "goat",
+    "target": "mole",
+    "par": 5
+  },
+  {
+    "start": "golf",
+    "target": "hall",
+    "par": 5
+  },
+  {
+    "start": "grew",
+    "target": "shot",
+    "par": 5
+  },
+  {
+    "start": "hang",
+    "target": "fire",
+    "par": 5
+  },
+  {
+    "start": "hash",
+    "target": "fate",
+    "par": 5
+  },
+  {
+    "start": "hell",
+    "target": "same",
+    "par": 5
+  },
+  {
+    "start": "here",
+    "target": "case",
+    "par": 5
+  },
+  {
+    "start": "hope",
+    "target": "hear",
+    "par": 5
+  },
+  {
+    "start": "horn",
+    "target": "rate",
+    "par": 5
+  },
+  {
+    "start": "hour",
+    "target": "toll",
+    "par": 5
+  },
+  {
+    "start": "joke",
+    "target": "mine",
+    "par": 5
+  },
+  {
+    "start": "keen",
+    "target": "band",
+    "par": 5
+  },
+  {
+    "start": "kids",
+    "target": "dire",
+    "par": 5
+  },
+  {
+    "start": "last",
+    "target": "rate",
+    "par": 5
+  },
+  {
+    "start": "laws",
+    "target": "last",
+    "par": 5
+  },
+  {
+    "start": "life",
+    "target": "pack",
+    "par": 5
+  },
+  {
+    "start": "list",
+    "target": "wake",
+    "par": 5
+  },
+  {
+    "start": "load",
+    "target": "mile",
+    "par": 5
+  },
+  {
+    "start": "logs",
+    "target": "wine",
+    "par": 5
+  },
+  {
+    "start": "luck",
+    "target": "sake",
+    "par": 5
+  },
+  {
+    "start": "mate",
+    "target": "bull",
+    "par": 5
+  },
+  {
+    "start": "meat",
+    "target": "will",
+    "par": 5
+  },
+  {
+    "start": "mole",
+    "target": "best",
+    "par": 5
+  },
+  {
+    "start": "much",
+    "target": "bare",
+    "par": 5
+  },
+  {
+    "start": "muck",
+    "target": "will",
+    "par": 5
+  },
+  {
+    "start": "name",
+    "target": "back",
+    "par": 5
+  },
+  {
+    "start": "near",
+    "target": "fill",
+    "par": 5
+  },
+  {
+    "start": "neck",
+    "target": "wire",
+    "par": 5
+  },
+  {
+    "start": "need",
+    "target": "sine",
+    "par": 5
+  },
+  {
+    "start": "pace",
+    "target": "fail",
+    "par": 5
+  },
+  {
+    "start": "pile",
+    "target": "cast",
+    "par": 5
+  },
+  {
+    "start": "pink",
+    "target": "mate",
+    "par": 5
+  },
+  {
+    "start": "pulp",
+    "target": "beat",
+    "par": 5
+  },
+  {
+    "start": "pure",
+    "target": "bash",
+    "par": 5
+  },
+  {
+    "start": "puts",
+    "target": "last",
+    "par": 5
+  },
+  {
+    "start": "quit",
+    "target": "skip",
+    "par": 5
+  },
+  {
+    "start": "rack",
+    "target": "hell",
+    "par": 5
+  },
+  {
+    "start": "real",
+    "target": "fail",
+    "par": 5
+  },
+  {
+    "start": "rend",
+    "target": "hall",
+    "par": 5
+  },
+  {
+    "start": "rice",
+    "target": "bold",
+    "par": 5
+  },
+  {
+    "start": "road",
+    "target": "mill",
+    "par": 5
+  },
+  {
+    "start": "rode",
+    "target": "lack",
+    "par": 5
+  },
+  {
+    "start": "role",
+    "target": "rail",
+    "par": 5
+  },
+  {
+    "start": "rout",
+    "target": "tear",
+    "par": 5
+  },
+  {
+    "start": "rude",
+    "target": "tall",
+    "par": 5
+  },
+  {
+    "start": "sake",
+    "target": "fail",
+    "par": 5
+  },
+  {
+    "start": "sane",
+    "target": "hell",
+    "par": 5
+  },
+  {
+    "start": "seem",
+    "target": "gear",
+    "par": 5
+  },
+  {
+    "start": "seen",
+    "target": "mine",
+    "par": 5
+  },
+  {
+    "start": "send",
+    "target": "pole",
+    "par": 5
+  },
+  {
+    "start": "sent",
+    "target": "came",
+    "par": 5
+  },
+  {
+    "start": "shot",
+    "target": "pray",
+    "par": 5
+  },
+  {
+    "start": "sick",
+    "target": "till",
+    "par": 5
+  },
+  {
+    "start": "size",
+    "target": "lack",
+    "par": 5
+  },
+  {
+    "start": "soil",
+    "target": "fold",
+    "par": 5
+  },
+  {
+    "start": "some",
+    "target": "hill",
+    "par": 5
+  },
+  {
+    "start": "soup",
+    "target": "rain",
+    "par": 5
+  },
+  {
+    "start": "spit",
+    "target": "chap",
+    "par": 5
+  },
+  {
+    "start": "spot",
+    "target": "clip",
+    "par": 5
+  },
+  {
+    "start": "swam",
+    "target": "paid",
+    "par": 5
+  },
+  {
+    "start": "swim",
+    "target": "band",
+    "par": 5
+  },
+  {
+    "start": "swum",
+    "target": "sand",
+    "par": 5
+  },
+  {
+    "start": "talk",
+    "target": "seed",
+    "par": 5
+  },
+  {
+    "start": "tame",
+    "target": "bend",
+    "par": 5
+  },
+  {
+    "start": "tank",
+    "target": "fire",
+    "par": 5
+  },
+  {
+    "start": "tear",
+    "target": "bold",
+    "par": 5
+  },
+  {
+    "start": "tend",
+    "target": "tame",
+    "par": 5
+  },
+  {
+    "start": "text",
+    "target": "tell",
+    "par": 5
+  },
+  {
+    "start": "thin",
+    "target": "boat",
+    "par": 5
+  },
+  {
+    "start": "tied",
+    "target": "lent",
+    "par": 5
+  },
+  {
+    "start": "tile",
+    "target": "feat",
+    "par": 5
+  },
+  {
+    "start": "tins",
+    "target": "fame",
+    "par": 5
+  },
+  {
+    "start": "told",
+    "target": "rate",
+    "par": 5
+  },
+  {
+    "start": "toll",
+    "target": "wore",
+    "par": 5
+  },
+  {
+    "start": "turn",
+    "target": "fare",
+    "par": 5
+  },
+  {
+    "start": "vice",
+    "target": "hold",
+    "par": 5
+  },
+  {
+    "start": "wage",
+    "target": "fall",
+    "par": 5
+  },
+  {
+    "start": "wall",
+    "target": "meat",
+    "par": 5
+  },
+  {
+    "start": "ways",
+    "target": "lake",
+    "par": 5
+  },
+  {
+    "start": "weak",
+    "target": "bind",
+    "par": 5
+  },
+  {
+    "start": "week",
+    "target": "best",
+    "par": 5
+  },
+  {
+    "start": "went",
+    "target": "tall",
+    "par": 5
+  },
+  {
+    "start": "will",
+    "target": "care",
+    "par": 5
+  },
+  {
+    "start": "wipe",
+    "target": "fold",
+    "par": 5
+  },
+  {
+    "start": "woke",
+    "target": "till",
+    "par": 5
+  },
+  {
+    "start": "worm",
+    "target": "will",
+    "par": 5
+  },
+  {
+    "start": "wrap",
+    "target": "coal",
+    "par": 5
+  },
+  {
+    "start": "year",
+    "target": "band",
+    "par": 5
+  },
+  {
+    "start": "aids",
+    "target": "sack",
+    "par": 6
+  },
+  {
+    "start": "aunt",
+    "target": "wide",
+    "par": 6
+  },
+  {
+    "start": "bags",
+    "target": "rear",
+    "par": 6
+  },
+  {
+    "start": "bans",
+    "target": "rode",
+    "par": 6
+  },
+  {
+    "start": "base",
+    "target": "bets",
+    "par": 6
+  },
+  {
+    "start": "bear",
+    "target": "sane",
+    "par": 6
+  },
+  {
+    "start": "beds",
+    "target": "sank",
+    "par": 6
+  },
+  {
+    "start": "bias",
+    "target": "bars",
+    "par": 6
+  },
+  {
+    "start": "bits",
+    "target": "tore",
+    "par": 6
+  },
+  {
+    "start": "bolt",
+    "target": "sink",
+    "par": 6
+  },
+  {
+    "start": "bone",
+    "target": "rail",
+    "par": 6
+  },
+  {
+    "start": "bull",
+    "target": "cave",
+    "par": 6
+  },
+  {
+    "start": "buys",
+    "target": "sore",
+    "par": 6
+  },
+  {
+    "start": "call",
+    "target": "cars",
+    "par": 6
+  },
+  {
+    "start": "camp",
+    "target": "gold",
+    "par": 6
+  },
+  {
+    "start": "cats",
+    "target": "tile",
+    "par": 6
+  },
+  {
+    "start": "cent",
+    "target": "pile",
+    "par": 6
+  },
+  {
+    "start": "cube",
+    "target": "head",
+    "par": 6
+  },
+  {
+    "start": "damp",
+    "target": "post",
+    "par": 6
+  },
+  {
+    "start": "deaf",
+    "target": "wars",
+    "par": 6
+  },
+  {
+    "start": "deep",
+    "target": "sink",
+    "par": 6
+  },
+  {
+    "start": "desk",
+    "target": "past",
+    "par": 6
+  },
+  {
+    "start": "dire",
+    "target": "wear",
+    "par": 6
+  },
+  {
+    "start": "dive",
+    "target": "nest",
+    "par": 6
+  },
+  {
+    "start": "dogs",
+    "target": "pack",
+    "par": 6
+  },
+  {
+    "start": "done",
+    "target": "cell",
+    "par": 6
+  },
+  {
+    "start": "drug",
+    "target": "glow",
+    "par": 6
+  },
+  {
+    "start": "dual",
+    "target": "post",
+    "par": 6
+  },
+  {
+    "start": "earn",
+    "target": "tale",
+    "par": 6
+  },
+  {
+    "start": "ears",
+    "target": "sold",
+    "par": 6
+  },
+  {
+    "start": "ease",
+    "target": "sold",
+    "par": 6
+  },
+  {
+    "start": "farm",
+    "target": "seat",
+    "par": 6
+  },
+  {
+    "start": "fate",
+    "target": "head",
+    "par": 6
+  },
+  {
+    "start": "film",
+    "target": "boot",
+    "par": 6
+  },
+  {
+    "start": "fine",
+    "target": "neat",
+    "par": 6
+  },
+  {
+    "start": "five",
+    "target": "rent",
+    "par": 6
+  },
+  {
+    "start": "flat",
+    "target": "pile",
+    "par": 6
+  },
+  {
+    "start": "fond",
+    "target": "bits",
+    "par": 6
+  },
+  {
+    "start": "fork",
+    "target": "rent",
+    "par": 6
+  },
+  {
+    "start": "gave",
+    "target": "hail",
+    "par": 6
+  },
+  {
+    "start": "goes",
+    "target": "mind",
+    "par": 6
+  },
+  {
+    "start": "good",
+    "target": "sank",
+    "par": 6
+  },
+  {
+    "start": "gown",
+    "target": "wide",
+    "par": 6
+  },
+  {
+    "start": "grid",
+    "target": "chip",
+    "par": 6
+  },
+  {
+    "start": "guns",
+    "target": "come",
+    "par": 6
+  },
+  {
+    "start": "guys",
+    "target": "wide",
+    "par": 6
+  },
+  {
+    "start": "hall",
+    "target": "core",
+    "par": 6
+  },
+  {
+    "start": "harm",
+    "target": "bull",
+    "par": 6
+  },
+  {
+    "start": "hate",
+    "target": "sell",
+    "par": 6
+  },
+  {
+    "start": "hats",
+    "target": "fall",
+    "par": 6
+  },
+  {
+    "start": "held",
+    "target": "pack",
+    "par": 6
+  },
+  {
+    "start": "hits",
+    "target": "tack",
+    "par": 6
+  },
+  {
+    "start": "hole",
+    "target": "pins",
+    "par": 6
+  },
+  {
+    "start": "hunt",
+    "target": "gave",
+    "par": 6
+  },
+  {
+    "start": "jack",
+    "target": "none",
+    "par": 6
+  },
+  {
+    "start": "kind",
+    "target": "rail",
+    "par": 6
+  },
+  {
+    "start": "leak",
+    "target": "mate",
+    "par": 6
+  },
+  {
+    "start": "left",
+    "target": "rave",
+    "par": 6
+  },
+  {
+    "start": "less",
+    "target": "sail",
+    "par": 6
+  },
+  {
+    "start": "lets",
+    "target": "save",
+    "par": 6
+  },
+  {
+    "start": "lied",
+    "target": "bass",
+    "par": 6
+  },
+  {
+    "start": "lift",
+    "target": "sole",
+    "par": 6
+  },
+  {
+    "start": "line",
+    "target": "belt",
+    "par": 6
+  },
+  {
+    "start": "lost",
+    "target": "full",
+    "par": 6
+  },
+  {
+    "start": "lots",
+    "target": "male",
+    "par": 6
+  },
+  {
+    "start": "lump",
+    "target": "bass",
+    "par": 6
+  },
+  {
+    "start": "made",
+    "target": "lain",
+    "par": 6
+  },
+  {
+    "start": "mend",
+    "target": "rare",
+    "par": 6
+  },
+  {
+    "start": "mild",
+    "target": "year",
+    "par": 6
+  },
+  {
+    "start": "miss",
+    "target": "core",
+    "par": 6
+  },
+  {
+    "start": "mist",
+    "target": "ball",
+    "par": 6
+  },
+  {
+    "start": "moan",
+    "target": "ball",
+    "par": 6
+  },
+  {
+    "start": "mock",
+    "target": "bind",
+    "par": 6
+  },
+  {
+    "start": "mood",
+    "target": "bark",
+    "par": 6
+  },
+  {
+    "start": "more",
+    "target": "cell",
+    "par": 6
+  },
+  {
+    "start": "nail",
+    "target": "gate",
+    "par": 6
+  },
+  {
+    "start": "nuns",
+    "target": "coke",
+    "par": 6
+  },
+  {
+    "start": "nuts",
+    "target": "gave",
+    "par": 6
+  },
+  {
+    "start": "paid",
+    "target": "last",
+    "par": 6
+  },
+  {
+    "start": "pant",
+    "target": "near",
+    "par": 6
+  },
+  {
+    "start": "pigs",
+    "target": "pill",
+    "par": 6
+  },
+  {
+    "start": "plot",
+    "target": "slid",
+    "par": 6
+  },
+  {
+    "start": "poll",
+    "target": "heat",
+    "par": 6
+  },
+  {
+    "start": "pope",
+    "target": "bang",
+    "par": 6
+  },
+  {
+    "start": "pops",
+    "target": "lead",
+    "par": 6
+  },
+  {
+    "start": "pork",
+    "target": "bull",
+    "par": 6
+  },
+  {
+    "start": "pour",
+    "target": "male",
+    "par": 6
+  },
+  {
+    "start": "pull",
+    "target": "date",
+    "par": 6
+  },
+  {
+    "start": "punt",
+    "target": "sale",
+    "par": 6
+  },
+  {
+    "start": "push",
+    "target": "core",
+    "par": 6
+  },
+  {
+    "start": "raid",
+    "target": "race",
+    "par": 6
+  },
+  {
+    "start": "rang",
+    "target": "cope",
+    "par": 6
+  },
+  {
+    "start": "rank",
+    "target": "worn",
+    "par": 6
+  },
+  {
+    "start": "read",
+    "target": "gate",
+    "par": 6
+  },
+  {
+    "start": "rips",
+    "target": "lake",
+    "par": 6
+  },
+  {
+    "start": "risk",
+    "target": "bark",
+    "par": 6
+  },
+  {
+    "start": "roll",
+    "target": "bars",
+    "par": 6
+  },
+  {
+    "start": "roof",
+    "target": "cast",
+    "par": 6
+  },
+  {
+    "start": "root",
+    "target": "file",
+    "par": 6
+  },
+  {
+    "start": "rope",
+    "target": "pins",
+    "par": 6
+  },
+  {
+    "start": "rose",
+    "target": "mail",
+    "par": 6
+  },
+  {
+    "start": "sail",
+    "target": "fare",
+    "par": 6
+  },
+  {
+    "start": "salt",
+    "target": "deed",
+    "par": 6
+  },
+  {
+    "start": "sank",
+    "target": "worn",
+    "par": 6
+  },
+  {
+    "start": "save",
+    "target": "heat",
+    "par": 6
+  },
+  {
+    "start": "seat",
+    "target": "tone",
+    "par": 6
+  },
+  {
+    "start": "seed",
+    "target": "role",
+    "par": 6
+  },
+  {
+    "start": "sees",
+    "target": "dire",
+    "par": 6
+  },
+  {
+    "start": "shoe",
+    "target": "crew",
+    "par": 6
+  },
+  {
+    "start": "slip",
+    "target": "call",
+    "par": 6
+  },
+  {
+    "start": "sole",
+    "target": "bits",
+    "par": 6
+  },
+  {
+    "start": "solo",
+    "target": "tear",
+    "par": 6
+  },
+  {
+    "start": "sons",
+    "target": "told",
+    "par": 6
+  },
+  {
+    "start": "stem",
+    "target": "save",
+    "par": 6
+  },
+  {
+    "start": "suit",
+    "target": "know",
+    "par": 6
+  },
+  {
+    "start": "tall",
+    "target": "rend",
+    "par": 6
+  },
+  {
+    "start": "team",
+    "target": "mill",
+    "par": 6
+  },
+  {
+    "start": "tell",
+    "target": "bass",
+    "par": 6
+  },
+  {
+    "start": "that",
+    "target": "fear",
+    "par": 6
+  },
+  {
+    "start": "then",
+    "target": "crop",
+    "par": 6
+  },
+  {
+    "start": "till",
+    "target": "puns",
+    "par": 6
+  },
+  {
+    "start": "toad",
+    "target": "bark",
+    "par": 6
+  },
+  {
+    "start": "toes",
+    "target": "sale",
+    "par": 6
+  },
+  {
+    "start": "tore",
+    "target": "heat",
+    "par": 6
+  },
+  {
+    "start": "trap",
+    "target": "boot",
+    "par": 6
+  },
+  {
+    "start": "vast",
+    "target": "nine",
+    "par": 6
+  },
+  {
+    "start": "very",
+    "target": "bogs",
+    "par": 6
+  },
+  {
+    "start": "want",
+    "target": "fire",
+    "par": 6
+  },
+  {
+    "start": "ward",
+    "target": "belt",
+    "par": 6
+  },
+  {
+    "start": "warm",
+    "target": "lent",
+    "par": 6
+  },
+  {
+    "start": "wars",
+    "target": "sail",
+    "par": 6
+  },
+  {
+    "start": "wash",
+    "target": "lets",
+    "par": 6
+  },
+  {
+    "start": "weds",
+    "target": "cars",
+    "par": 6
+  },
+  {
+    "start": "when",
+    "target": "chip",
+    "par": 6
+  },
+  {
+    "start": "wife",
+    "target": "lets",
+    "par": 6
+  },
+  {
+    "start": "wild",
+    "target": "cope",
+    "par": 6
+  },
+  {
+    "start": "wind",
+    "target": "jail",
+    "par": 6
+  },
+  {
+    "start": "wins",
+    "target": "bear",
+    "par": 6
+  },
+  {
+    "start": "wish",
+    "target": "sent",
+    "par": 6
+  },
+  {
+    "start": "zone",
+    "target": "deed",
+    "par": 6
+  },
+  {
+    "start": "aids",
+    "target": "tame",
+    "par": 7
+  },
+  {
+    "start": "aunt",
+    "target": "feat",
+    "par": 7
+  },
+  {
+    "start": "bags",
+    "target": "sell",
+    "par": 7
+  },
+  {
+    "start": "bans",
+    "target": "room",
+    "par": 7
+  },
+  {
+    "start": "base",
+    "target": "dead",
+    "par": 7
+  },
+  {
+    "start": "bear",
+    "target": "tore",
+    "par": 7
+  },
+  {
+    "start": "beds",
+    "target": "bear",
+    "par": 7
+  },
+  {
+    "start": "bias",
+    "target": "pile",
+    "par": 7
+  },
+  {
+    "start": "bits",
+    "target": "park",
+    "par": 7
+  },
+  {
+    "start": "bolt",
+    "target": "guts",
+    "par": 7
+  },
+  {
+    "start": "bone",
+    "target": "mock",
+    "par": 7
+  },
+  {
+    "start": "bull",
+    "target": "cash",
+    "par": 7
+  },
+  {
+    "start": "buys",
+    "target": "tale",
+    "par": 7
+  },
+  {
+    "start": "call",
+    "target": "cats",
+    "par": 7
+  },
+  {
+    "start": "camp",
+    "target": "sees",
+    "par": 7
+  },
+  {
+    "start": "cats",
+    "target": "lean",
+    "par": 7
+  },
+  {
+    "start": "cent",
+    "target": "dice",
+    "par": 7
+  },
+  {
+    "start": "cube",
+    "target": "send",
+    "par": 7
+  },
+  {
+    "start": "damp",
+    "target": "told",
+    "par": 7
+  },
+  {
+    "start": "deaf",
+    "target": "cave",
+    "par": 7
+  },
+  {
+    "start": "deep",
+    "target": "tore",
+    "par": 7
+  },
+  {
+    "start": "desk",
+    "target": "fate",
+    "par": 7
+  },
+  {
+    "start": "dire",
+    "target": "went",
+    "par": 7
+  },
+  {
+    "start": "dive",
+    "target": "dump",
+    "par": 7
+  },
+  {
+    "start": "dogs",
+    "target": "year",
+    "par": 7
+  },
+  {
+    "start": "done",
+    "target": "feet",
+    "par": 7
+  },
+  {
+    "start": "drug",
+    "target": "blow",
+    "par": 7
+  },
+  {
+    "start": "dual",
+    "target": "come",
+    "par": 7
+  },
+  {
+    "start": "earn",
+    "target": "pins",
+    "par": 7
+  },
+  {
+    "start": "ears",
+    "target": "deal",
+    "par": 7
+  },
+  {
+    "start": "ease",
+    "target": "year",
+    "par": 7
+  },
+  {
+    "start": "farm",
+    "target": "bets",
+    "par": 7
+  },
+  {
+    "start": "fate",
+    "target": "deed",
+    "par": 7
+  },
+  {
+    "start": "film",
+    "target": "toes",
+    "par": 7
+  },
+  {
+    "start": "fine",
+    "target": "lump",
+    "par": 7
+  },
+  {
+    "start": "five",
+    "target": "pays",
+    "par": 7
+  },
+  {
+    "start": "flat",
+    "target": "bits",
+    "par": 7
+  },
+  {
+    "start": "fond",
+    "target": "guts",
+    "par": 7
+  },
+  {
+    "start": "fork",
+    "target": "mail",
+    "par": 7
+  },
+  {
+    "start": "gave",
+    "target": "meat",
+    "par": 7
+  },
+  {
+    "start": "goes",
+    "target": "cage",
+    "par": 7
+  },
+  {
+    "start": "good",
+    "target": "pant",
+    "par": 7
+  },
+  {
+    "start": "gown",
+    "target": "fate",
+    "par": 7
+  },
+  {
+    "start": "grid",
+    "target": "show",
+    "par": 7
+  },
+  {
+    "start": "guns",
+    "target": "deal",
+    "par": 7
+  },
+  {
+    "start": "guys",
+    "target": "gave",
+    "par": 7
+  },
+  {
+    "start": "hall",
+    "target": "worn",
+    "par": 7
+  },
+  {
+    "start": "harm",
+    "target": "rose",
+    "par": 7
+  },
+  {
+    "start": "hate",
+    "target": "jest",
+    "par": 7
+  },
+  {
+    "start": "hats",
+    "target": "feat",
+    "par": 7
+  },
+  {
+    "start": "held",
+    "target": "east",
+    "par": 7
+  },
+  {
+    "start": "hits",
+    "target": "sail",
+    "par": 7
+  },
+  {
+    "start": "hole",
+    "target": "puns",
+    "par": 7
+  },
+  {
+    "start": "hunt",
+    "target": "gate",
+    "par": 7
+  },
+  {
+    "start": "jack",
+    "target": "deal",
+    "par": 7
+  },
+  {
+    "start": "kind",
+    "target": "doom",
+    "par": 7
+  },
+  {
+    "start": "leak",
+    "target": "cope",
+    "par": 7
+  },
+  {
+    "start": "left",
+    "target": "jail",
+    "par": 7
+  },
+  {
+    "start": "less",
+    "target": "worm",
+    "par": 7
+  },
+  {
+    "start": "lets",
+    "target": "rave",
+    "par": 7
+  },
+  {
+    "start": "lied",
+    "target": "more",
+    "par": 7
+  },
+  {
+    "start": "lift",
+    "target": "call",
+    "par": 7
+  },
+  {
+    "start": "line",
+    "target": "gear",
+    "par": 7
+  },
+  {
+    "start": "lost",
+    "target": "pain",
+    "par": 7
+  },
+  {
+    "start": "lots",
+    "target": "date",
+    "par": 7
+  },
+  {
+    "start": "lump",
+    "target": "sing",
+    "par": 7
+  },
+  {
+    "start": "made",
+    "target": "sees",
+    "par": 7
+  },
+  {
+    "start": "mend",
+    "target": "lays",
+    "par": 7
+  },
+  {
+    "start": "mild",
+    "target": "gain",
+    "par": 7
+  },
+  {
+    "start": "miss",
+    "target": "wear",
+    "par": 7
+  },
+  {
+    "start": "mist",
+    "target": "torn",
+    "par": 7
+  },
+  {
+    "start": "moan",
+    "target": "bash",
+    "par": 7
+  },
+  {
+    "start": "mock",
+    "target": "warm",
+    "par": 7
+  },
+  {
+    "start": "mood",
+    "target": "cash",
+    "par": 7
+  },
+  {
+    "start": "more",
+    "target": "bean",
+    "par": 7
+  },
+  {
+    "start": "nail",
+    "target": "post",
+    "par": 7
+  },
+  {
+    "start": "nuns",
+    "target": "take",
+    "par": 7
+  },
+  {
+    "start": "nuts",
+    "target": "bold",
+    "par": 7
+  },
+  {
+    "start": "paid",
+    "target": "more",
+    "par": 7
+  },
+  {
+    "start": "pant",
+    "target": "rain",
+    "par": 7
+  },
+  {
+    "start": "pigs",
+    "target": "hold",
+    "par": 7
+  },
+  {
+    "start": "plot",
+    "target": "neat",
+    "par": 7
+  },
+  {
+    "start": "poll",
+    "target": "sits",
+    "par": 7
+  },
+  {
+    "start": "pope",
+    "target": "boom",
+    "par": 7
+  },
+  {
+    "start": "pops",
+    "target": "belt",
+    "par": 7
+  },
+  {
+    "start": "pork",
+    "target": "mail",
+    "par": 7
+  },
+  {
+    "start": "pour",
+    "target": "past",
+    "par": 7
+  },
+  {
+    "start": "pull",
+    "target": "wars",
+    "par": 7
+  },
+  {
+    "start": "punt",
+    "target": "gear",
+    "par": 7
+  },
+  {
+    "start": "push",
+    "target": "nine",
+    "par": 7
+  },
+  {
+    "start": "raid",
+    "target": "code",
+    "par": 7
+  },
+  {
+    "start": "rang",
+    "target": "boom",
+    "par": 7
+  },
+  {
+    "start": "rank",
+    "target": "flaw",
+    "par": 7
+  },
+  {
+    "start": "read",
+    "target": "kits",
+    "par": 7
+  },
+  {
+    "start": "rips",
+    "target": "rear",
+    "par": 7
+  },
+  {
+    "start": "risk",
+    "target": "full",
+    "par": 7
+  },
+  {
+    "start": "roll",
+    "target": "nets",
+    "par": 7
+  },
+  {
+    "start": "roof",
+    "target": "past",
+    "par": 7
+  },
+  {
+    "start": "root",
+    "target": "take",
+    "par": 7
+  },
+  {
+    "start": "rope",
+    "target": "meat",
+    "par": 7
+  },
+  {
+    "start": "rose",
+    "target": "seem",
+    "par": 7
+  },
+  {
+    "start": "sail",
+    "target": "near",
+    "par": 7
+  },
+  {
+    "start": "salt",
+    "target": "bogs",
+    "par": 7
+  },
+  {
+    "start": "sank",
+    "target": "shot",
+    "par": 7
+  },
+  {
+    "start": "save",
+    "target": "cook",
+    "par": 7
+  },
+  {
+    "start": "seat",
+    "target": "come",
+    "par": 7
+  },
+  {
+    "start": "seed",
+    "target": "torn",
+    "par": 7
+  },
+  {
+    "start": "sees",
+    "target": "hole",
+    "par": 7
+  },
+  {
+    "start": "shoe",
+    "target": "nail",
+    "par": 7
+  },
+  {
+    "start": "slip",
+    "target": "hole",
+    "par": 7
+  },
+  {
+    "start": "sole",
+    "target": "vain",
+    "par": 7
+  },
+  {
+    "start": "solo",
+    "target": "pain",
+    "par": 7
+  },
+  {
+    "start": "sons",
+    "target": "ball",
+    "par": 7
+  },
+  {
+    "start": "stem",
+    "target": "done",
+    "par": 7
+  },
+  {
+    "start": "suit",
+    "target": "stem",
+    "par": 7
+  },
+  {
+    "start": "tall",
+    "target": "lets",
+    "par": 7
+  },
+  {
+    "start": "team",
+    "target": "hail",
+    "par": 7
+  },
+  {
+    "start": "tell",
+    "target": "does",
+    "par": 7
+  },
+  {
+    "start": "that",
+    "target": "send",
+    "par": 7
+  },
+  {
+    "start": "then",
+    "target": "seat",
+    "par": 7
+  },
+  {
+    "start": "till",
+    "target": "dogs",
+    "par": 7
+  },
+  {
+    "start": "toad",
+    "target": "bogs",
+    "par": 7
+  },
+  {
+    "start": "toes",
+    "target": "full",
+    "par": 7
+  },
+  {
+    "start": "tore",
+    "target": "rest",
+    "par": 7
+  },
+  {
+    "start": "trap",
+    "target": "pose",
+    "par": 7
+  },
+  {
+    "start": "vast",
+    "target": "call",
+    "par": 7
+  },
+  {
+    "start": "very",
+    "target": "lead",
+    "par": 7
+  },
+  {
+    "start": "want",
+    "target": "pain",
+    "par": 7
+  },
+  {
+    "start": "ward",
+    "target": "jest",
+    "par": 7
+  },
+  {
+    "start": "warm",
+    "target": "lust",
+    "par": 7
+  },
+  {
+    "start": "wars",
+    "target": "hail",
+    "par": 7
+  },
+  {
+    "start": "wash",
+    "target": "bets",
+    "par": 7
+  },
+  {
+    "start": "weds",
+    "target": "bars",
+    "par": 7
+  },
+  {
+    "start": "when",
+    "target": "clip",
+    "par": 7
+  },
+  {
+    "start": "wife",
+    "target": "rear",
+    "par": 7
+  },
+  {
+    "start": "wild",
+    "target": "wary",
+    "par": 7
+  },
+  {
+    "start": "wind",
+    "target": "bump",
+    "par": 7
+  },
+  {
+    "start": "wins",
+    "target": "jail",
+    "par": 7
+  },
+  {
+    "start": "wish",
+    "target": "boot",
+    "par": 7
+  },
+  {
+    "start": "zone",
+    "target": "rain",
+    "par": 7
+  },
+  {
+    "start": "along",
+    "target": "chose",
+    "par": 4
+  },
+  {
+    "start": "bakes",
+    "target": "rates",
+    "par": 4
+  },
+  {
+    "start": "balls",
+    "target": "fines",
+    "par": 4
+  },
+  {
+    "start": "barks",
+    "target": "lends",
+    "par": 4
+  },
+  {
+    "start": "beans",
+    "target": "chats",
+    "par": 4
+  },
+  {
+    "start": "blown",
+    "target": "draws",
+    "par": 4
+  },
+  {
+    "start": "boats",
+    "target": "cases",
+    "par": 4
+  },
+  {
+    "start": "brass",
+    "target": "grown",
+    "par": 4
+  },
+  {
+    "start": "brave",
+    "target": "track",
+    "par": 4
+  },
+  {
+    "start": "break",
+    "target": "cried",
+    "par": 4
+  },
+  {
+    "start": "breed",
+    "target": "flies",
+    "par": 4
+  },
+  {
+    "start": "brown",
+    "target": "grass",
+    "par": 4
+  },
+  {
+    "start": "cases",
+    "target": "hates",
+    "par": 4
+  },
+  {
+    "start": "cater",
+    "target": "inner",
+    "par": 4
+  },
+  {
+    "start": "chart",
+    "target": "costs",
+    "par": 4
+  },
+  {
+    "start": "cheek",
+    "target": "sweep",
+    "par": 4
+  },
+  {
+    "start": "cheer",
+    "target": "sweat",
+    "par": 4
+  },
+  {
+    "start": "chips",
+    "target": "crass",
+    "par": 4
+  },
+  {
+    "start": "chuck",
+    "target": "sheer",
+    "par": 4
+  },
+  {
+    "start": "close",
+    "target": "while",
+    "par": 4
+  },
+  {
+    "start": "coded",
+    "target": "noted",
+    "par": 4
+  },
+  {
+    "start": "comes",
+    "target": "rules",
+    "par": 4
+  },
+  {
+    "start": "cools",
+    "target": "rocks",
+    "par": 4
+  },
+  {
+    "start": "copes",
+    "target": "loses",
+    "par": 4
+  },
+  {
+    "start": "creed",
+    "target": "drips",
+    "par": 4
+  },
+  {
+    "start": "cured",
+    "target": "baked",
+    "par": 4
+  },
+  {
+    "start": "cures",
+    "target": "gates",
+    "par": 4
+  },
+  {
+    "start": "dares",
+    "target": "raved",
+    "par": 4
+  },
+  {
+    "start": "drags",
+    "target": "brain",
+    "par": 4
+  },
+  {
+    "start": "drain",
+    "target": "flown",
+    "par": 4
+  },
+  {
+    "start": "drank",
+    "target": "track",
+    "par": 4
+  },
+  {
+    "start": "drawn",
+    "target": "gross",
+    "par": 4
+  },
+  {
+    "start": "dread",
+    "target": "fried",
+    "par": 4
+  },
+  {
+    "start": "drips",
+    "target": "gross",
+    "par": 4
+  },
+  {
+    "start": "drops",
+    "target": "chaos",
+    "par": 4
+  },
+  {
+    "start": "faced",
+    "target": "gates",
+    "par": 4
+  },
+  {
+    "start": "faces",
+    "target": "barks",
+    "par": 4
+  },
+  {
+    "start": "falls",
+    "target": "tacks",
+    "par": 4
+  },
+  {
+    "start": "feeds",
+    "target": "stems",
+    "par": 4
+  },
+  {
+    "start": "fence",
+    "target": "plate",
+    "par": 4
+  },
+  {
+    "start": "films",
+    "target": "winds",
+    "par": 4
+  },
+  {
+    "start": "fined",
+    "target": "wills",
+    "par": 4
+  },
+  {
+    "start": "fired",
+    "target": "falls",
+    "par": 4
+  },
+  {
+    "start": "foods",
+    "target": "hooks",
+    "par": 4
+  },
+  {
+    "start": "fools",
+    "target": "holes",
+    "par": 4
+  },
+  {
+    "start": "frown",
+    "target": "grain",
+    "par": 4
+  },
+  {
+    "start": "gears",
+    "target": "rends",
+    "par": 4
+  },
+  {
+    "start": "gives",
+    "target": "fired",
+    "par": 4
+  },
+  {
+    "start": "grace",
+    "target": "thick",
+    "par": 4
+  },
+  {
+    "start": "grade",
+    "target": "trick",
+    "par": 4
+  },
+  {
+    "start": "greed",
+    "target": "treat",
+    "par": 4
+  },
+  {
+    "start": "grown",
+    "target": "flaws",
+    "par": 4
+  },
+  {
+    "start": "halls",
+    "target": "fires",
+    "par": 4
+  },
+  {
+    "start": "hired",
+    "target": "dines",
+    "par": 4
+  },
+  {
+    "start": "holds",
+    "target": "codes",
+    "par": 4
+  },
+  {
+    "start": "hosts",
+    "target": "notes",
+    "par": 4
+  },
+  {
+    "start": "inner",
+    "target": "eager",
+    "par": 4
+  },
+  {
+    "start": "lacks",
+    "target": "hands",
+    "par": 4
+  },
+  {
+    "start": "laser",
+    "target": "inter",
+    "par": 4
+  },
+  {
+    "start": "leach",
+    "target": "lunch",
+    "par": 4
+  },
+  {
+    "start": "liked",
+    "target": "tired",
+    "par": 4
+  },
+  {
+    "start": "lined",
+    "target": "fills",
+    "par": 4
+  },
+  {
+    "start": "lines",
+    "target": "pills",
+    "par": 4
+  },
+  {
+    "start": "lives",
+    "target": "cakes",
+    "par": 4
+  },
+  {
+    "start": "loads",
+    "target": "beats",
+    "par": 4
+  },
+  {
+    "start": "lords",
+    "target": "means",
+    "par": 4
+  },
+  {
+    "start": "lover",
+    "target": "mined",
+    "par": 4
+  },
+  {
+    "start": "loves",
+    "target": "files",
+    "par": 4
+  },
+  {
+    "start": "lower",
+    "target": "lines",
+    "par": 4
+  },
+  {
+    "start": "lunch",
+    "target": "ditch",
+    "par": 4
+  },
+  {
+    "start": "maker",
+    "target": "files",
+    "par": 4
+  },
+  {
+    "start": "miles",
+    "target": "balls",
+    "par": 4
+  },
+  {
+    "start": "mines",
+    "target": "bakes",
+    "par": 4
+  },
+  {
+    "start": "mixed",
+    "target": "binds",
+    "par": 4
+  },
+  {
+    "start": "mixes",
+    "target": "tends",
+    "par": 4
+  },
+  {
+    "start": "names",
+    "target": "based",
+    "par": 4
+  },
+  {
+    "start": "needs",
+    "target": "seeks",
+    "par": 4
+  },
+  {
+    "start": "nicks",
+    "target": "banks",
+    "par": 4
+  },
+  {
+    "start": "noted",
+    "target": "loves",
+    "par": 4
+  },
+  {
+    "start": "packs",
+    "target": "dates",
+    "par": 4
+  },
+  {
+    "start": "pence",
+    "target": "plans",
+    "par": 4
+  },
+  {
+    "start": "picks",
+    "target": "rants",
+    "par": 4
+  },
+  {
+    "start": "pills",
+    "target": "dines",
+    "par": 4
+  },
+  {
+    "start": "pinch",
+    "target": "beach",
+    "par": 4
+  },
+  {
+    "start": "pitch",
+    "target": "bench",
+    "par": 4
+  },
+  {
+    "start": "plans",
+    "target": "pence",
+    "par": 4
+  },
+  {
+    "start": "plate",
+    "target": "hence",
+    "par": 4
+  },
+  {
+    "start": "point",
+    "target": "hairs",
+    "par": 4
+  },
+  {
+    "start": "polls",
+    "target": "tires",
+    "par": 4
+  },
+  {
+    "start": "pulls",
+    "target": "fails",
+    "par": 4
+  },
+  {
+    "start": "punch",
+    "target": "reach",
+    "par": 4
+  },
+  {
+    "start": "punts",
+    "target": "tanks",
+    "par": 4
+  },
+  {
+    "start": "racks",
+    "target": "bends",
+    "par": 4
+  },
+  {
+    "start": "raids",
+    "target": "hairs",
+    "par": 4
+  },
+  {
+    "start": "reads",
+    "target": "mines",
+    "par": 4
+  },
+  {
+    "start": "roles",
+    "target": "kills",
+    "par": 4
+  },
+  {
+    "start": "roots",
+    "target": "cools",
+    "par": 4
+  },
+  {
+    "start": "routs",
+    "target": "looks",
+    "par": 4
+  },
+  {
+    "start": "sacks",
+    "target": "books",
+    "par": 4
+  },
+  {
+    "start": "sales",
+    "target": "fills",
+    "par": 4
+  },
+  {
+    "start": "score",
+    "target": "stack",
+    "par": 4
+  },
+  {
+    "start": "shade",
+    "target": "stone",
+    "par": 4
+  },
+  {
+    "start": "shout",
+    "target": "stock",
+    "par": 4
+  },
+  {
+    "start": "shows",
+    "target": "brown",
+    "par": 4
+  },
+  {
+    "start": "sinks",
+    "target": "dined",
+    "par": 4
+  },
+  {
+    "start": "sized",
+    "target": "wired",
+    "par": 4
+  },
+  {
+    "start": "slows",
+    "target": "steps",
+    "par": 4
+  },
+  {
+    "start": "spill",
+    "target": "stare",
+    "par": 4
+  },
+  {
+    "start": "spits",
+    "target": "stops",
+    "par": 4
+  },
+  {
+    "start": "spoke",
+    "target": "spots",
+    "par": 4
+  },
+  {
+    "start": "spout",
+    "target": "shock",
+    "par": 4
+  },
+  {
+    "start": "stage",
+    "target": "stock",
+    "par": 4
+  },
+  {
+    "start": "stake",
+    "target": "shone",
+    "par": 4
+  },
+  {
+    "start": "start",
+    "target": "shall",
+    "par": 4
+  },
+  {
+    "start": "steps",
+    "target": "spots",
+    "par": 4
+  },
+  {
+    "start": "stone",
+    "target": "shape",
+    "par": 4
+  },
+  {
+    "start": "suits",
+    "target": "shows",
+    "par": 4
+  },
+  {
+    "start": "sweat",
+    "target": "steer",
+    "par": 4
+  },
+  {
+    "start": "tales",
+    "target": "hills",
+    "par": 4
+  },
+  {
+    "start": "tapes",
+    "target": "lacks",
+    "par": 4
+  },
+  {
+    "start": "tells",
+    "target": "files",
+    "par": 4
+  },
+  {
+    "start": "theme",
+    "target": "chase",
+    "par": 4
+  },
+  {
+    "start": "these",
+    "target": "clone",
+    "par": 4
+  },
+  {
+    "start": "thing",
+    "target": "track",
+    "par": 4
+  },
+  {
+    "start": "tired",
+    "target": "lived",
+    "par": 4
+  },
+  {
+    "start": "token",
+    "target": "sales",
+    "par": 4
+  },
+  {
+    "start": "tools",
+    "target": "boots",
+    "par": 4
+  },
+  {
+    "start": "trace",
+    "target": "brake",
+    "par": 4
+  },
+  {
+    "start": "tread",
+    "target": "cried",
+    "par": 4
+  },
+  {
+    "start": "trick",
+    "target": "drink",
+    "par": 4
+  },
+  {
+    "start": "warps",
+    "target": "firms",
+    "par": 4
+  },
+  {
+    "start": "water",
+    "target": "fiver",
+    "par": 4
+  },
+  {
+    "start": "waves",
+    "target": "hacks",
+    "par": 4
+  },
+  {
+    "start": "whose",
+    "target": "write",
+    "par": 4
+  },
+  {
+    "start": "wills",
+    "target": "fired",
+    "par": 4
+  },
+  {
+    "start": "wipes",
+    "target": "bakes",
+    "par": 4
+  },
+  {
+    "start": "wired",
+    "target": "tales",
+    "par": 4
+  },
+  {
+    "start": "woods",
+    "target": "leads",
+    "par": 4
+  },
+  {
+    "start": "works",
+    "target": "roads",
+    "par": 4
+  },
+  {
+    "start": "years",
+    "target": "moans",
+    "par": 4
+  },
+  {
+    "start": "along",
+    "target": "those",
+    "par": 5
+  },
+  {
+    "start": "bakes",
+    "target": "lacks",
+    "par": 5
+  },
+  {
+    "start": "balls",
+    "target": "packs",
+    "par": 5
+  },
+  {
+    "start": "barks",
+    "target": "dates",
+    "par": 5
+  },
+  {
+    "start": "beans",
+    "target": "looks",
+    "par": 5
+  },
+  {
+    "start": "blown",
+    "target": "train",
+    "par": 5
+  },
+  {
+    "start": "boats",
+    "target": "bells",
+    "par": 5
+  },
+  {
+    "start": "brass",
+    "target": "chaps",
+    "par": 5
+  },
+  {
+    "start": "brave",
+    "target": "truck",
+    "par": 5
+  },
+  {
+    "start": "break",
+    "target": "fries",
+    "par": 5
+  },
+  {
+    "start": "breed",
+    "target": "trips",
+    "par": 5
+  },
+  {
+    "start": "brown",
+    "target": "brass",
+    "par": 5
+  },
+  {
+    "start": "cases",
+    "target": "chars",
+    "par": 5
+  },
+  {
+    "start": "cater",
+    "target": "wives",
+    "par": 5
+  },
+  {
+    "start": "chart",
+    "target": "beats",
+    "par": 5
+  },
+  {
+    "start": "cheek",
+    "target": "sweat",
+    "par": 5
+  },
+  {
+    "start": "chips",
+    "target": "glows",
+    "par": 5
+  },
+  {
+    "start": "chuck",
+    "target": "sheet",
+    "par": 5
+  },
+  {
+    "start": "close",
+    "target": "white",
+    "par": 5
+  },
+  {
+    "start": "coded",
+    "target": "lover",
+    "par": 5
+  },
+  {
+    "start": "comes",
+    "target": "males",
+    "par": 5
+  },
+  {
+    "start": "cools",
+    "target": "worms",
+    "par": 5
+  },
+  {
+    "start": "copes",
+    "target": "tales",
+    "par": 5
+  },
+  {
+    "start": "creed",
+    "target": "grips",
+    "par": 5
+  },
+  {
+    "start": "cried",
+    "target": "slips",
+    "par": 5
+  },
+  {
+    "start": "cured",
+    "target": "wades",
+    "par": 5
+  },
+  {
+    "start": "cures",
+    "target": "rated",
+    "par": 5
+  },
+  {
+    "start": "dares",
+    "target": "packs",
+    "par": 5
+  },
+  {
+    "start": "drags",
+    "target": "blown",
+    "par": 5
+  },
+  {
+    "start": "drain",
+    "target": "gross",
+    "par": 5
+  },
+  {
+    "start": "drank",
+    "target": "thick",
+    "par": 5
+  },
+  {
+    "start": "drawn",
+    "target": "slows",
+    "par": 5
+  },
+  {
+    "start": "dread",
+    "target": "cries",
+    "par": 5
+  },
+  {
+    "start": "drips",
+    "target": "shots",
+    "par": 5
+  },
+  {
+    "start": "drops",
+    "target": "coats",
+    "par": 5
+  },
+  {
+    "start": "faced",
+    "target": "barks",
+    "par": 5
+  },
+  {
+    "start": "faces",
+    "target": "wines",
+    "par": 5
+  },
+  {
+    "start": "falls",
+    "target": "dined",
+    "par": 5
+  },
+  {
+    "start": "feeds",
+    "target": "steps",
+    "par": 5
+  },
+  {
+    "start": "fence",
+    "target": "plans",
+    "par": 5
+  },
+  {
+    "start": "films",
+    "target": "tacks",
+    "par": 5
+  },
+  {
+    "start": "fined",
+    "target": "fails",
+    "par": 5
+  },
+  {
+    "start": "fired",
+    "target": "halls",
+    "par": 5
+  },
+  {
+    "start": "foods",
+    "target": "locks",
+    "par": 5
+  },
+  {
+    "start": "fools",
+    "target": "roles",
+    "par": 5
+  },
+  {
+    "start": "frown",
+    "target": "glass",
+    "par": 5
+  },
+  {
+    "start": "gears",
+    "target": "costs",
+    "par": 5
+  },
+  {
+    "start": "gives",
+    "target": "bases",
+    "par": 5
+  },
+  {
+    "start": "grace",
+    "target": "drunk",
+    "par": 5
+  },
+  {
+    "start": "grade",
+    "target": "thick",
+    "par": 5
+  },
+  {
+    "start": "greed",
+    "target": "flips",
+    "par": 5
+  },
+  {
+    "start": "grown",
+    "target": "crash",
+    "par": 5
+  },
+  {
+    "start": "halls",
+    "target": "lines",
+    "par": 5
+  },
+  {
+    "start": "hired",
+    "target": "bills",
+    "par": 5
+  },
+  {
+    "start": "holds",
+    "target": "miles",
+    "par": 5
+  },
+  {
+    "start": "hosts",
+    "target": "bears",
+    "par": 5
+  },
+  {
+    "start": "inner",
+    "target": "liter",
+    "par": 5
+  },
+  {
+    "start": "lacks",
+    "target": "pends",
+    "par": 5
+  },
+  {
+    "start": "laser",
+    "target": "gives",
+    "par": 5
+  },
+  {
+    "start": "leach",
+    "target": "pinch",
+    "par": 5
+  },
+  {
+    "start": "liked",
+    "target": "kinds",
+    "par": 5
+  },
+  {
+    "start": "lined",
+    "target": "wakes",
+    "par": 5
+  },
+  {
+    "start": "lines",
+    "target": "halls",
+    "par": 5
+  },
+  {
+    "start": "lives",
+    "target": "lends",
+    "par": 5
+  },
+  {
+    "start": "loads",
+    "target": "folds",
+    "par": 5
+  },
+  {
+    "start": "lords",
+    "target": "tears",
+    "par": 5
+  },
+  {
+    "start": "lover",
+    "target": "finds",
+    "par": 5
+  },
+  {
+    "start": "loves",
+    "target": "makes",
+    "par": 5
+  },
+  {
+    "start": "lower",
+    "target": "mines",
+    "par": 5
+  },
+  {
+    "start": "lunch",
+    "target": "match",
+    "par": 5
+  },
+  {
+    "start": "maker",
+    "target": "lines",
+    "par": 5
+  },
+  {
+    "start": "miles",
+    "target": "mails",
+    "par": 5
+  },
+  {
+    "start": "mines",
+    "target": "rates",
+    "par": 5
+  },
+  {
+    "start": "mixed",
+    "target": "bakes",
+    "par": 5
+  },
+  {
+    "start": "mixes",
+    "target": "banks",
+    "par": 5
+  },
+  {
+    "start": "named",
+    "target": "saves",
+    "par": 5
+  },
+  {
+    "start": "names",
+    "target": "waves",
+    "par": 5
+  },
+  {
+    "start": "needs",
+    "target": "steps",
+    "par": 5
+  },
+  {
+    "start": "nicks",
+    "target": "raced",
+    "par": 5
+  },
+  {
+    "start": "noted",
+    "target": "hopes",
+    "par": 5
+  },
+  {
+    "start": "packs",
+    "target": "mends",
+    "par": 5
+  },
+  {
+    "start": "pence",
+    "target": "plays",
+    "par": 5
+  },
+  {
+    "start": "picks",
+    "target": "takes",
+    "par": 5
+  },
+  {
+    "start": "pills",
+    "target": "lined",
+    "par": 5
+  },
+  {
+    "start": "pinch",
+    "target": "leach",
+    "par": 5
+  },
+  {
+    "start": "pitch",
+    "target": "beach",
+    "par": 5
+  },
+  {
+    "start": "plans",
+    "target": "hence",
+    "par": 5
+  },
+  {
+    "start": "point",
+    "target": "fails",
+    "par": 5
+  },
+  {
+    "start": "polls",
+    "target": "takes",
+    "par": 5
+  },
+  {
+    "start": "prone",
+    "target": "swore",
+    "par": 5
+  },
+  {
+    "start": "pulls",
+    "target": "dines",
+    "par": 5
+  },
+  {
+    "start": "punts",
+    "target": "poses",
+    "par": 5
+  },
+  {
+    "start": "racks",
+    "target": "rends",
+    "par": 5
+  },
+  {
+    "start": "raids",
+    "target": "kills",
+    "par": 5
+  },
+  {
+    "start": "reads",
+    "target": "mixes",
+    "par": 5
+  },
+  {
+    "start": "roles",
+    "target": "tires",
+    "par": 5
+  },
+  {
+    "start": "roots",
+    "target": "chaps",
+    "par": 5
+  },
+  {
+    "start": "routs",
+    "target": "heats",
+    "par": 5
+  },
+  {
+    "start": "sacks",
+    "target": "tends",
+    "par": 5
+  },
+  {
+    "start": "sales",
+    "target": "dined",
+    "par": 5
+  },
+  {
+    "start": "score",
+    "target": "shall",
+    "par": 5
+  },
+  {
+    "start": "shade",
+    "target": "stuck",
+    "par": 5
+  },
+  {
+    "start": "shout",
+    "target": "stick",
+    "par": 5
+  },
+  {
+    "start": "shows",
+    "target": "crass",
+    "par": 5
+  },
+  {
+    "start": "sinks",
+    "target": "fixed",
+    "par": 5
+  },
+  {
+    "start": "sized",
+    "target": "fined",
+    "par": 5
+  },
+  {
+    "start": "slows",
+    "target": "drops",
+    "par": 5
+  },
+  {
+    "start": "spill",
+    "target": "start",
+    "par": 5
+  },
+  {
+    "start": "spits",
+    "target": "skips",
+    "par": 5
+  },
+  {
+    "start": "spoke",
+    "target": "slots",
+    "par": 5
+  },
+  {
+    "start": "spout",
+    "target": "stock",
+    "par": 5
+  },
+  {
+    "start": "stage",
+    "target": "shine",
+    "par": 5
+  },
+  {
+    "start": "stake",
+    "target": "shine",
+    "par": 5
+  },
+  {
+    "start": "start",
+    "target": "shell",
+    "par": 5
+  },
+  {
+    "start": "steps",
+    "target": "blows",
+    "par": 5
+  },
+  {
+    "start": "stone",
+    "target": "stuck",
+    "par": 5
+  },
+  {
+    "start": "suits",
+    "target": "flows",
+    "par": 5
+  },
+  {
+    "start": "sweat",
+    "target": "cheek",
+    "par": 5
+  },
+  {
+    "start": "tales",
+    "target": "winds",
+    "par": 5
+  },
+  {
+    "start": "tapes",
+    "target": "bills",
+    "par": 5
+  },
+  {
+    "start": "tells",
+    "target": "fires",
+    "par": 5
+  },
+  {
+    "start": "theme",
+    "target": "clone",
+    "par": 5
+  },
+  {
+    "start": "these",
+    "target": "alone",
+    "par": 5
+  },
+  {
+    "start": "thing",
+    "target": "trace",
+    "par": 5
+  },
+  {
+    "start": "tired",
+    "target": "tacks",
+    "par": 5
+  },
+  {
+    "start": "token",
+    "target": "waved",
+    "par": 5
+  },
+  {
+    "start": "tools",
+    "target": "worms",
+    "par": 5
+  },
+  {
+    "start": "trace",
+    "target": "drink",
+    "par": 5
+  },
+  {
+    "start": "tread",
+    "target": "cries",
+    "par": 5
+  },
+  {
+    "start": "trick",
+    "target": "lying",
+    "par": 5
+  },
+  {
+    "start": "warps",
+    "target": "loads",
+    "par": 5
+  },
+  {
+    "start": "water",
+    "target": "wives",
+    "par": 5
+  },
+  {
+    "start": "waves",
+    "target": "bends",
+    "par": 5
+  },
+  {
+    "start": "whose",
+    "target": "along",
+    "par": 5
+  },
+  {
+    "start": "wills",
+    "target": "takes",
+    "par": 5
+  },
+  {
+    "start": "wipes",
+    "target": "pends",
+    "par": 5
+  },
+  {
+    "start": "wired",
+    "target": "bills",
+    "par": 5
+  },
+  {
+    "start": "woods",
+    "target": "reads",
+    "par": 5
+  },
+  {
+    "start": "works",
+    "target": "fills",
+    "par": 5
+  },
+  {
+    "start": "years",
+    "target": "sends",
+    "par": 5
+  },
+  {
+    "start": "aided",
+    "target": "talks",
+    "par": 6
+  },
+  {
+    "start": "arose",
+    "target": "stole",
+    "par": 6
+  },
+  {
+    "start": "baked",
+    "target": "backs",
+    "par": 6
+  },
+  {
+    "start": "basis",
+    "target": "gates",
+    "par": 6
+  },
+  {
+    "start": "batch",
+    "target": "bench",
+    "par": 6
+  },
+  {
+    "start": "beers",
+    "target": "bells",
+    "par": 6
+  },
+  {
+    "start": "bends",
+    "target": "hills",
+    "par": 6
+  },
+  {
+    "start": "bills",
+    "target": "mends",
+    "par": 6
+  },
+  {
+    "start": "books",
+    "target": "raves",
+    "par": 6
+  },
+  {
+    "start": "boots",
+    "target": "parks",
+    "par": 6
+  },
+  {
+    "start": "brain",
+    "target": "flows",
+    "par": 6
+  },
+  {
+    "start": "casts",
+    "target": "wires",
+    "par": 6
+  },
+  {
+    "start": "chars",
+    "target": "means",
+    "par": 6
+  },
+  {
+    "start": "chats",
+    "target": "makes",
+    "par": 6
+  },
+  {
+    "start": "clash",
+    "target": "chips",
+    "par": 6
+  },
+  {
+    "start": "crass",
+    "target": "charm",
+    "par": 6
+  },
+  {
+    "start": "cried",
+    "target": "chops",
+    "par": 6
+  },
+  {
+    "start": "cross",
+    "target": "tried",
+    "par": 6
+  },
+  {
+    "start": "crown",
+    "target": "drops",
+    "par": 6
+  },
+  {
+    "start": "crush",
+    "target": "grown",
+    "par": 6
+  },
+  {
+    "start": "dated",
+    "target": "wires",
+    "par": 6
+  },
+  {
+    "start": "dates",
+    "target": "hires",
+    "par": 6
+  },
+  {
+    "start": "deals",
+    "target": "costs",
+    "par": 6
+  },
+  {
+    "start": "dined",
+    "target": "calls",
+    "par": 6
+  },
+  {
+    "start": "dives",
+    "target": "walls",
+    "par": 6
+  },
+  {
+    "start": "dooms",
+    "target": "beans",
+    "par": 6
+  },
+  {
+    "start": "doses",
+    "target": "cares",
+    "par": 6
+  },
+  {
+    "start": "dream",
+    "target": "tried",
+    "par": 6
+  },
+  {
+    "start": "drove",
+    "target": "store",
+    "par": 6
+  },
+  {
+    "start": "dying",
+    "target": "truck",
+    "par": 6
+  },
+  {
+    "start": "eager",
+    "target": "fiber",
+    "par": 6
+  },
+  {
+    "start": "fails",
+    "target": "hacks",
+    "par": 6
+  },
+  {
+    "start": "fills",
+    "target": "sacks",
+    "par": 6
+  },
+  {
+    "start": "finds",
+    "target": "beans",
+    "par": 6
+  },
+  {
+    "start": "fires",
+    "target": "rains",
+    "par": 6
+  },
+  {
+    "start": "flash",
+    "target": "drops",
+    "par": 6
+  },
+  {
+    "start": "flesh",
+    "target": "crops",
+    "par": 6
+  },
+  {
+    "start": "flied",
+    "target": "chats",
+    "par": 6
+  },
+  {
+    "start": "flows",
+    "target": "suite",
+    "par": 6
+  },
+  {
+    "start": "freed",
+    "target": "skips",
+    "par": 6
+  },
+  {
+    "start": "fries",
+    "target": "dream",
+    "par": 6
+  },
+  {
+    "start": "games",
+    "target": "barks",
+    "par": 6
+  },
+  {
+    "start": "grass",
+    "target": "clips",
+    "par": 6
+  },
+  {
+    "start": "grave",
+    "target": "think",
+    "par": 6
+  },
+  {
+    "start": "grows",
+    "target": "chars",
+    "par": 6
+  },
+  {
+    "start": "hands",
+    "target": "bears",
+    "par": 6
+  },
+  {
+    "start": "handy",
+    "target": "finer",
+    "par": 6
+  },
+  {
+    "start": "hated",
+    "target": "parks",
+    "par": 6
+  },
+  {
+    "start": "heard",
+    "target": "minds",
+    "par": 6
+  },
+  {
+    "start": "hears",
+    "target": "balls",
+    "par": 6
+  },
+  {
+    "start": "heats",
+    "target": "falls",
+    "par": 6
+  },
+  {
+    "start": "hence",
+    "target": "plays",
+    "par": 6
+  },
+  {
+    "start": "hides",
+    "target": "calls",
+    "par": 6
+  },
+  {
+    "start": "hooks",
+    "target": "chars",
+    "par": 6
+  },
+  {
+    "start": "joins",
+    "target": "rails",
+    "par": 6
+  },
+  {
+    "start": "kinds",
+    "target": "halls",
+    "par": 6
+  },
+  {
+    "start": "kings",
+    "target": "cakes",
+    "par": 6
+  },
+  {
+    "start": "lands",
+    "target": "dives",
+    "par": 6
+  },
+  {
+    "start": "later",
+    "target": "minds",
+    "par": 6
+  },
+  {
+    "start": "lifts",
+    "target": "poets",
+    "par": 6
+  },
+  {
+    "start": "liter",
+    "target": "hired",
+    "par": 6
+  },
+  {
+    "start": "lived",
+    "target": "racks",
+    "par": 6
+  },
+  {
+    "start": "looks",
+    "target": "leans",
+    "par": 6
+  },
+  {
+    "start": "loses",
+    "target": "fired",
+    "par": 6
+  },
+  {
+    "start": "mails",
+    "target": "hires",
+    "par": 6
+  },
+  {
+    "start": "makes",
+    "target": "bands",
+    "par": 6
+  },
+  {
+    "start": "males",
+    "target": "pants",
+    "par": 6
+  },
+  {
+    "start": "match",
+    "target": "bench",
+    "par": 6
+  },
+  {
+    "start": "menus",
+    "target": "tears",
+    "par": 6
+  },
+  {
+    "start": "minus",
+    "target": "hears",
+    "par": 6
+  },
+  {
+    "start": "moans",
+    "target": "goods",
+    "par": 6
+  },
+  {
+    "start": "moves",
+    "target": "races",
+    "par": 6
+  },
+  {
+    "start": "naked",
+    "target": "wings",
+    "par": 6
+  },
+  {
+    "start": "named",
+    "target": "wines",
+    "par": 6
+  },
+  {
+    "start": "notes",
+    "target": "roles",
+    "par": 6
+  },
+  {
+    "start": "paged",
+    "target": "mines",
+    "par": 6
+  },
+  {
+    "start": "paint",
+    "target": "balls",
+    "par": 6
+  },
+  {
+    "start": "phone",
+    "target": "shall",
+    "par": 6
+  },
+  {
+    "start": "poets",
+    "target": "wakes",
+    "par": 6
+  },
+  {
+    "start": "posts",
+    "target": "wears",
+    "par": 6
+  },
+  {
+    "start": "prone",
+    "target": "scale",
+    "par": 6
+  },
+  {
+    "start": "quite",
+    "target": "shops",
+    "par": 6
+  },
+  {
+    "start": "quits",
+    "target": "blows",
+    "par": 6
+  },
+  {
+    "start": "rains",
+    "target": "piles",
+    "par": 6
+  },
+  {
+    "start": "rants",
+    "target": "tires",
+    "par": 6
+  },
+  {
+    "start": "rends",
+    "target": "fixed",
+    "par": 6
+  },
+  {
+    "start": "rises",
+    "target": "filed",
+    "par": 6
+  },
+  {
+    "start": "rocks",
+    "target": "sends",
+    "par": 6
+  },
+  {
+    "start": "ruled",
+    "target": "foods",
+    "par": 6
+  },
+  {
+    "start": "rules",
+    "target": "times",
+    "par": 6
+  },
+  {
+    "start": "sails",
+    "target": "finer",
+    "par": 6
+  },
+  {
+    "start": "saves",
+    "target": "hided",
+    "par": 6
+  },
+  {
+    "start": "scare",
+    "target": "prone",
+    "par": 6
+  },
+  {
+    "start": "seals",
+    "target": "casts",
+    "par": 6
+  },
+  {
+    "start": "shall",
+    "target": "shine",
+    "par": 6
+  },
+  {
+    "start": "shell",
+    "target": "storm",
+    "par": 6
+  },
+  {
+    "start": "shirt",
+    "target": "stuck",
+    "par": 6
+  },
+  {
+    "start": "shock",
+    "target": "stole",
+    "par": 6
+  },
+  {
+    "start": "short",
+    "target": "stark",
+    "par": 6
+  },
+  {
+    "start": "sided",
+    "target": "miles",
+    "par": 6
+  },
+  {
+    "start": "sings",
+    "target": "leads",
+    "par": 6
+  },
+  {
+    "start": "sites",
+    "target": "piles",
+    "par": 6
+  },
+  {
+    "start": "spike",
+    "target": "flows",
+    "par": 6
+  },
+  {
+    "start": "stack",
+    "target": "skill",
+    "par": 6
+  },
+  {
+    "start": "stall",
+    "target": "shock",
+    "par": 6
+  },
+  {
+    "start": "stark",
+    "target": "spell",
+    "par": 6
+  },
+  {
+    "start": "state",
+    "target": "prone",
+    "par": 6
+  },
+  {
+    "start": "steal",
+    "target": "check",
+    "par": 6
+  },
+  {
+    "start": "steel",
+    "target": "chuck",
+    "par": 6
+  },
+  {
+    "start": "steep",
+    "target": "chuck",
+    "par": 6
+  },
+  {
+    "start": "stems",
+    "target": "clips",
+    "par": 6
+  },
+  {
+    "start": "stock",
+    "target": "sworn",
+    "par": 6
+  },
+  {
+    "start": "stole",
+    "target": "shock",
+    "par": 6
+  },
+  {
+    "start": "store",
+    "target": "spell",
+    "par": 6
+  },
+  {
+    "start": "suite",
+    "target": "ships",
+    "par": 6
+  },
+  {
+    "start": "sweep",
+    "target": "chuck",
+    "par": 6
+  },
+  {
+    "start": "swore",
+    "target": "spill",
+    "par": 6
+  },
+  {
+    "start": "tacks",
+    "target": "finer",
+    "par": 6
+  },
+  {
+    "start": "taken",
+    "target": "finds",
+    "par": 6
+  },
+  {
+    "start": "taker",
+    "target": "liver",
+    "par": 6
+  },
+  {
+    "start": "teach",
+    "target": "pitch",
+    "par": 6
+  },
+  {
+    "start": "think",
+    "target": "grave",
+    "par": 6
+  },
+  {
+    "start": "tires",
+    "target": "later",
+    "par": 6
+  },
+  {
+    "start": "train",
+    "target": "glows",
+    "par": 6
+  },
+  {
+    "start": "tries",
+    "target": "shops",
+    "par": 6
+  },
+  {
+    "start": "trips",
+    "target": "crash",
+    "par": 6
+  },
+  {
+    "start": "vends",
+    "target": "makes",
+    "par": 6
+  },
+  {
+    "start": "voted",
+    "target": "lover",
+    "par": 6
+  },
+  {
+    "start": "waked",
+    "target": "hacks",
+    "par": 6
+  },
+  {
+    "start": "wakes",
+    "target": "mends",
+    "par": 6
+  },
+  {
+    "start": "walls",
+    "target": "cases",
+    "par": 6
+  },
+  {
+    "start": "warms",
+    "target": "fixed",
+    "par": 6
+  },
+  {
+    "start": "while",
+    "target": "alone",
+    "par": 6
+  },
+  {
+    "start": "white",
+    "target": "theme",
+    "par": 6
+  },
+  {
+    "start": "wings",
+    "target": "baked",
+    "par": 6
+  },
+  {
+    "start": "wires",
+    "target": "rails",
+    "par": 6
+  },
+  {
+    "start": "wives",
+    "target": "hopes",
+    "par": 6
+  },
+  {
+    "start": "women",
+    "target": "waked",
+    "par": 6
+  },
+  {
+    "start": "words",
+    "target": "years",
+    "par": 6
+  },
+  {
+    "start": "write",
+    "target": "chase",
+    "par": 6
+  },
+  {
+    "start": "aided",
+    "target": "tanks",
+    "par": 7
+  },
+  {
+    "start": "arose",
+    "target": "story",
+    "par": 7
+  },
+  {
+    "start": "baked",
+    "target": "binds",
+    "par": 7
+  },
+  {
+    "start": "basis",
+    "target": "fines",
+    "par": 7
+  },
+  {
+    "start": "beers",
+    "target": "ports",
+    "par": 7
+  },
+  {
+    "start": "bends",
+    "target": "sides",
+    "par": 7
+  },
+  {
+    "start": "bills",
+    "target": "years",
+    "par": 7
+  },
+  {
+    "start": "books",
+    "target": "cares",
+    "par": 7
+  },
+  {
+    "start": "boots",
+    "target": "loves",
+    "par": 7
+  },
+  {
+    "start": "brain",
+    "target": "grass",
+    "par": 7
+  },
+  {
+    "start": "casts",
+    "target": "racks",
+    "par": 7
+  },
+  {
+    "start": "chars",
+    "target": "cared",
+    "par": 7
+  },
+  {
+    "start": "chats",
+    "target": "lacks",
+    "par": 7
+  },
+  {
+    "start": "clash",
+    "target": "crown",
+    "par": 7
+  },
+  {
+    "start": "coats",
+    "target": "dives",
+    "par": 7
+  },
+  {
+    "start": "crass",
+    "target": "spits",
+    "par": 7
+  },
+  {
+    "start": "cross",
+    "target": "posts",
+    "par": 7
+  },
+  {
+    "start": "crown",
+    "target": "chips",
+    "par": 7
+  },
+  {
+    "start": "crush",
+    "target": "shots",
+    "par": 7
+  },
+  {
+    "start": "dated",
+    "target": "hires",
+    "par": 7
+  },
+  {
+    "start": "dates",
+    "target": "walls",
+    "par": 7
+  },
+  {
+    "start": "deals",
+    "target": "posts",
+    "par": 7
+  },
+  {
+    "start": "dined",
+    "target": "holes",
+    "par": 7
+  },
+  {
+    "start": "dives",
+    "target": "sails",
+    "par": 7
+  },
+  {
+    "start": "dooms",
+    "target": "chaps",
+    "par": 7
+  },
+  {
+    "start": "doses",
+    "target": "tiles",
+    "par": 7
+  },
+  {
+    "start": "dream",
+    "target": "flies",
+    "par": 7
+  },
+  {
+    "start": "drove",
+    "target": "swore",
+    "par": 7
+  },
+  {
+    "start": "dying",
+    "target": "trunk",
+    "par": 7
+  },
+  {
+    "start": "eager",
+    "target": "wires",
+    "par": 7
+  },
+  {
+    "start": "fails",
+    "target": "beats",
+    "par": 7
+  },
+  {
+    "start": "files",
+    "target": "heads",
+    "par": 7
+  },
+  {
+    "start": "fills",
+    "target": "bears",
+    "par": 7
+  },
+  {
+    "start": "finds",
+    "target": "codes",
+    "par": 7
+  },
+  {
+    "start": "fires",
+    "target": "eater",
+    "par": 7
+  },
+  {
+    "start": "flash",
+    "target": "grown",
+    "par": 7
+  },
+  {
+    "start": "flesh",
+    "target": "grows",
+    "par": 7
+  },
+  {
+    "start": "flied",
+    "target": "spots",
+    "par": 7
+  },
+  {
+    "start": "flows",
+    "target": "crush",
+    "par": 7
+  },
+  {
+    "start": "freed",
+    "target": "shops",
+    "par": 7
+  },
+  {
+    "start": "fries",
+    "target": "slots",
+    "par": 7
+  },
+  {
+    "start": "games",
+    "target": "fires",
+    "par": 7
+  },
+  {
+    "start": "grass",
+    "target": "fries",
+    "par": 7
+  },
+  {
+    "start": "grave",
+    "target": "drank",
+    "par": 7
+  },
+  {
+    "start": "grows",
+    "target": "dried",
+    "par": 7
+  },
+  {
+    "start": "hands",
+    "target": "calls",
+    "par": 7
+  },
+  {
+    "start": "handy",
+    "target": "lined",
+    "par": 7
+  },
+  {
+    "start": "hated",
+    "target": "liver",
+    "par": 7
+  },
+  {
+    "start": "heard",
+    "target": "kinds",
+    "par": 7
+  },
+  {
+    "start": "hears",
+    "target": "backs",
+    "par": 7
+  },
+  {
+    "start": "heats",
+    "target": "miles",
+    "par": 7
+  },
+  {
+    "start": "hides",
+    "target": "vends",
+    "par": 7
+  },
+  {
+    "start": "hooks",
+    "target": "bends",
+    "par": 7
+  },
+  {
+    "start": "hoped",
+    "target": "wakes",
+    "par": 7
+  },
+  {
+    "start": "joins",
+    "target": "sails",
+    "par": 7
+  },
+  {
+    "start": "kills",
+    "target": "rends",
+    "par": 7
+  },
+  {
+    "start": "kinds",
+    "target": "mails",
+    "par": 7
+  },
+  {
+    "start": "kings",
+    "target": "noses",
+    "par": 7
+  },
+  {
+    "start": "lands",
+    "target": "posts",
+    "par": 7
+  },
+  {
+    "start": "later",
+    "target": "hired",
+    "par": 7
+  },
+  {
+    "start": "lifts",
+    "target": "tapes",
+    "par": 7
+  },
+  {
+    "start": "liter",
+    "target": "falls",
+    "par": 7
+  },
+  {
+    "start": "lived",
+    "target": "packs",
+    "par": 7
+  },
+  {
+    "start": "looks",
+    "target": "wills",
+    "par": 7
+  },
+  {
+    "start": "loses",
+    "target": "tales",
+    "par": 7
+  },
+  {
+    "start": "mails",
+    "target": "sacks",
+    "par": 7
+  },
+  {
+    "start": "makes",
+    "target": "nails",
+    "par": 7
+  },
+  {
+    "start": "males",
+    "target": "rains",
+    "par": 7
+  },
+  {
+    "start": "match",
+    "target": "beach",
+    "par": 7
+  },
+  {
+    "start": "menus",
+    "target": "bases",
+    "par": 7
+  },
+  {
+    "start": "minus",
+    "target": "eater",
+    "par": 7
+  },
+  {
+    "start": "moans",
+    "target": "kinds",
+    "par": 7
+  },
+  {
+    "start": "moves",
+    "target": "sends",
+    "par": 7
+  },
+  {
+    "start": "naked",
+    "target": "minds",
+    "par": 7
+  },
+  {
+    "start": "nodes",
+    "target": "cares",
+    "par": 7
+  },
+  {
+    "start": "notes",
+    "target": "cakes",
+    "par": 7
+  },
+  {
+    "start": "paged",
+    "target": "finds",
+    "par": 7
+  },
+  {
+    "start": "paint",
+    "target": "walks",
+    "par": 7
+  },
+  {
+    "start": "pairs",
+    "target": "walks",
+    "par": 7
+  },
+  {
+    "start": "phone",
+    "target": "spill",
+    "par": 7
+  },
+  {
+    "start": "poets",
+    "target": "wines",
+    "par": 7
+  },
+  {
+    "start": "posts",
+    "target": "winds",
+    "par": 7
+  },
+  {
+    "start": "quite",
+    "target": "blows",
+    "par": 7
+  },
+  {
+    "start": "quits",
+    "target": "chips",
+    "par": 7
+  },
+  {
+    "start": "rains",
+    "target": "tanks",
+    "par": 7
+  },
+  {
+    "start": "rants",
+    "target": "leans",
+    "par": 7
+  },
+  {
+    "start": "rends",
+    "target": "looks",
+    "par": 7
+  },
+  {
+    "start": "rises",
+    "target": "lived",
+    "par": 7
+  },
+  {
+    "start": "rocks",
+    "target": "hills",
+    "par": 7
+  },
+  {
+    "start": "ruled",
+    "target": "races",
+    "par": 7
+  },
+  {
+    "start": "rules",
+    "target": "backs",
+    "par": 7
+  },
+  {
+    "start": "sails",
+    "target": "wives",
+    "par": 7
+  },
+  {
+    "start": "saves",
+    "target": "vends",
+    "par": 7
+  },
+  {
+    "start": "scare",
+    "target": "prose",
+    "par": 7
+  },
+  {
+    "start": "seals",
+    "target": "cases",
+    "par": 7
+  },
+  {
+    "start": "seems",
+    "target": "chats",
+    "par": 7
+  },
+  {
+    "start": "shall",
+    "target": "prone",
+    "par": 7
+  },
+  {
+    "start": "shell",
+    "target": "sworn",
+    "par": 7
+  },
+  {
+    "start": "shirt",
+    "target": "stark",
+    "par": 7
+  },
+  {
+    "start": "shock",
+    "target": "sword",
+    "par": 7
+  },
+  {
+    "start": "short",
+    "target": "stare",
+    "par": 7
+  },
+  {
+    "start": "sided",
+    "target": "loves",
+    "par": 7
+  },
+  {
+    "start": "sings",
+    "target": "walls",
+    "par": 7
+  },
+  {
+    "start": "sites",
+    "target": "mined",
+    "par": 7
+  },
+  {
+    "start": "spike",
+    "target": "skips",
+    "par": 7
+  },
+  {
+    "start": "stack",
+    "target": "spell",
+    "par": 7
+  },
+  {
+    "start": "stall",
+    "target": "shook",
+    "par": 7
+  },
+  {
+    "start": "stark",
+    "target": "prose",
+    "par": 7
+  },
+  {
+    "start": "state",
+    "target": "prove",
+    "par": 7
+  },
+  {
+    "start": "stems",
+    "target": "drips",
+    "par": 7
+  },
+  {
+    "start": "stock",
+    "target": "shell",
+    "par": 7
+  },
+  {
+    "start": "stole",
+    "target": "shook",
+    "par": 7
+  },
+  {
+    "start": "store",
+    "target": "shoot",
+    "par": 7
+  },
+  {
+    "start": "suite",
+    "target": "flaws",
+    "par": 7
+  },
+  {
+    "start": "swore",
+    "target": "shook",
+    "par": 7
+  },
+  {
+    "start": "tacks",
+    "target": "rains",
+    "par": 7
+  },
+  {
+    "start": "taken",
+    "target": "binds",
+    "par": 7
+  },
+  {
+    "start": "taker",
+    "target": "bells",
+    "par": 7
+  },
+  {
+    "start": "teach",
+    "target": "ditch",
+    "par": 7
+  },
+  {
+    "start": "think",
+    "target": "brave",
+    "par": 7
+  },
+  {
+    "start": "tires",
+    "target": "leads",
+    "par": 7
+  },
+  {
+    "start": "train",
+    "target": "flaws",
+    "par": 7
+  },
+  {
+    "start": "tries",
+    "target": "crash",
+    "par": 7
+  },
+  {
+    "start": "trips",
+    "target": "slots",
+    "par": 7
+  },
+  {
+    "start": "vends",
+    "target": "kills",
+    "par": 7
+  },
+  {
+    "start": "voted",
+    "target": "likes",
+    "par": 7
+  },
+  {
+    "start": "waked",
+    "target": "wills",
+    "par": 7
+  },
+  {
+    "start": "wakes",
+    "target": "tends",
+    "par": 7
+  },
+  {
+    "start": "walls",
+    "target": "dates",
+    "par": 7
+  },
+  {
+    "start": "warms",
+    "target": "pends",
+    "par": 7
+  },
+  {
+    "start": "whale",
+    "target": "along",
+    "par": 7
+  },
+  {
+    "start": "while",
+    "target": "along",
+    "par": 7
+  },
+  {
+    "start": "white",
+    "target": "alone",
+    "par": 7
+  },
+  {
+    "start": "wings",
+    "target": "sails",
+    "par": 7
+  },
+  {
+    "start": "wires",
+    "target": "foods",
+    "par": 7
+  },
+  {
+    "start": "wives",
+    "target": "rails",
+    "par": 7
+  },
+  {
+    "start": "woman",
+    "target": "types",
+    "par": 7
+  },
+  {
+    "start": "women",
+    "target": "waved",
+    "par": 7
+  },
+  {
+    "start": "words",
+    "target": "mined",
+    "par": 7
+  },
+  {
+    "start": "write",
+    "target": "there",
+    "par": 7
+  }
+]
