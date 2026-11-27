@@ -4,9 +4,61 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>word-ladder</title>
+    <meta
+      name="description"
+      content="Change one letter at a time to reach the target word."
+    />
+    <link rel="icon" href="%BASE_URL%favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        var theme = localStorage.getItem('word-ladder-theme');
+        if (theme === 'light' || theme === 'dark') {
+          document.documentElement.dataset.theme = theme;
+        }
+      } catch (error) {
+        /* Storage can be blocked; the system theme still applies. */
+      }
+    </script>
   </head>
   <body>
-    <main id="app"></main>
+    <div class="page">
+      <header class="top">
+        <div>
+          <h1>word-ladder</h1>
+          <p class="tagline">Change one letter at a time.</p>
+        </div>
+        <button type="button" id="theme">Dark</button>
+      </header>
+      <div class="modes" role="group" aria-label="Game">
+        <button type="button" id="mode-daily" aria-pressed="true">Daily</button>
+        <button type="button" id="mode-practice" aria-pressed="false">Practice</button>
+      </div>
+      <p class="meta" id="meta"></p>
+      <p class="sr-only" id="how">
+        Each move changes one letter and must be a word in the list. Type letters,
+        then press Enter. The daily puzzle is the same for every player and changes
+        at midnight UTC.
+      </p>
+      <div
+        id="board"
+        class="board"
+        tabindex="0"
+        aria-label="Word ladder"
+        aria-describedby="how"
+      ></div>
+      <p class="feedback" id="feedback" role="status"></p>
+      <div id="keyboard" class="keyboard" aria-label="Keyboard"></div>
+      <div class="actions">
+        <button type="button" id="undo">Undo</button>
+        <button type="button" id="hint">Hint</button>
+        <button type="button" id="give-up">Give up</button>
+        <button type="button" id="share" hidden>Share</button>
+        <button type="button" id="new-puzzle" hidden>New puzzle</button>
+      </div>
+      <p class="notice" id="notice" role="status"></p>
+      <footer class="stats" id="stats"></footer>
+    </div>
+    <noscript>This game needs JavaScript.</noscript>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

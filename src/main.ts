@@ -1,4 +1,7 @@
+import '@fontsource/newsreader/latin-400.css';
+import '@fontsource/newsreader/latin-500-italic.css';
+import '@fontsource/ibm-plex-mono/latin-500.css';
 import './style.css';
+import { startGame } from './ui/app';
 
-const app = document.querySelector('#app');
-if (app) app.textContent = 'word-ladder';
+startGame();
